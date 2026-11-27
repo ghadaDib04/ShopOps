@@ -7,7 +7,6 @@ import com.amazon.sample.ui.client.catalog.catalog.tags.TagsRequestBuilder;
 import com.microsoft.kiota.BaseRequestBuilder;
 import com.microsoft.kiota.RequestAdapter;
 import java.util.HashMap;
-import java.util.Objects;
 /**
  * Builds and executes requests for operations under /catalog
  */

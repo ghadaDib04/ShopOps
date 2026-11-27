@@ -6,10 +6,7 @@ import com.microsoft.kiota.BaseRequestBuilder;
 import com.microsoft.kiota.RequestAdapter;
 import com.microsoft.kiota.serialization.JsonParseNodeFactory;
 import com.microsoft.kiota.serialization.JsonSerializationWriterFactory;
-import com.microsoft.kiota.serialization.ParseNodeFactoryRegistry;
-import com.microsoft.kiota.serialization.SerializationWriterFactoryRegistry;
 import java.util.HashMap;
-import java.util.Objects;
 
 /**
  * The main entry point of the SDK, exposes the configuration and the fluent API.
