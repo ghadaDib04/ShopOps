@@ -1,0 +1,6 @@
+{
+  "BudgetName": "shopops-10usd",
+  "BudgetLimit": { "Amount": "10", "Unit": "USD" },
+  "TimeUnit": "MONTHLY",
+  "BudgetType": "COST"
+}
